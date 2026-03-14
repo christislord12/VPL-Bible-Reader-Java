@@ -1,0 +1,2 @@
+/opt/homebrew/Cellar/mingw-w64/13.0.0_2/bin/x86_64-w64-mingw32-g++ main.cpp -static-libgcc -static-libstdc++ --static  -o bible-reader-x86-64.exe
+/opt/homebrew/Cellar/mingw-w64/13.0.0_2/bin/i686-w64-mingw32-g++ main.cpp -static-libgcc -static-libstdc++ --static  -o bible-reader-i686.exe
